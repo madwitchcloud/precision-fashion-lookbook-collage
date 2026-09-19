@@ -1,0 +1,4 @@
+interface:
+  display_name: "Precision Fashion Lookbook Collage"
+  short_description: "Create precise 9:16 fashion lookbook collages"
+  default_prompt: "Use $precision-fashion-lookbook-collage to turn my white-background fashion photo into a 9:16 editorial lookbook collage."
